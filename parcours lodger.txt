@@ -1,0 +1,70 @@
+parcours du workflow lodger
+
+1-inscription creation de compte OK
+2- envoi de code de verif OK
+3- choix de l'abonnement OK
+4- paiement OK
+5- authentification a la plateforme OK
+6- ajout d'un bien OK 
+   remarques ajouter des champs et modifier le controller OK
+7- details appartement 
+	remarques ajouter les comodités  OK
+8- modifier un appartement
+ remarques ajouter les comodites  OK
+9- creation proprietaire OK
+10- creer un contrat ok
+11- ajouter une location OK 
+ mais remarques ajouter les comodites sur la modale 
+12- contrat en cours voir les locations en cours OK
+13- details location --erreur constatée 
+	count(): Argument #1 ($value) must be of type Countable|array, App\Models\PaiementLoyer given
+	CORRIGE en remplaçant count() par isset()
+	image n'affiche pas CORRIGE
+	dernier paiement effectué à corrige
+recuperation de la dernière facture pour un locataire problematique CORRIGE
+ajout modal comodites OK
+14-Voir facture location OK
+15-update location OK
+16- suppression location OK
+17- imprimer le contrat OK (mise en page du pdf)
+18- voir les locataires OK
+19- details locataire OK
+20- resilitaions des contrats à faire
+	remarque resilier contrat par admin impossible
+des champs manquent dans la table CORRIGE
+21- liste des resiliations OK
+22- valider une resilition si etat = 0 ou cacher le bouton OK
+23- Paiement de Loyers OK
+24- paiement manuel d'un loyer a partir de l'admin OK
+lorsqu'il y a un paiement le solde doit se mettre à jour
+25- details paiement OK
+26- Impression reçu de paiement (OK)
+- on emet une facture pour la periode passée le mois passé, et non la periode suivante
+on verra l'analyse*
+
+PERMETTRE DE POUVOIR TIRER UNE FACTURE POUR UNE LOCATION DONNEE
+POUVOIR ENREGISTRER AUTOMATIQUEMENT LES PAIEMENTS SUITE AU CONTRAT 
+(APPART,LOYER, CAUTION, AVANCE, COMMISSION, TOTAL PAIEMENT, RESTE)
+
+
+27- mode paiement locataire (affiche la liste des passerelle sur lesquels
+les client effectuent les paiements) especes, cheque, mobile money, cb
+28- Modifier le mois en fr
+29- Incidents
+30 - renouvellement abonnement (on ne renouvelle pas un essai)
+*par carte bancaire OK
+*par mobile money OK
+31-changer de forfait
+il faut notre que aucune facture n'est générée s'il n'y a pas de paiement(renouvellement)
+même si l'abonnement arrive à expiration ou a déjà expiré
+ 
+32- Rapports (graphique)
+   - nombre total de contrats de locations par année (sur une periode de 5 ans)
+   - Montant total encaissé sur l'année/ montant total à percevoir
+   - Paiement via passerelle (total)
+   - Nombre de clients par année (sur 5 ans)
+   - nombre de demandes de resiliations par année (sur 5 ans)
+
+33- Tableau de bord
+
+https://laravel.sillo.org/laravel-7/ (boutique en ligne)

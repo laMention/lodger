@@ -1,0 +1,34 @@
+.loader{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 9999;
+    overflow: hidden;
+    /* margin-bottom: 0; */
+    background: #2c2c2c61;
+    margin: 0 auto;
+    padding-top: 226px;
+}
+.spinner-border{
+  color: #180f9d;
+}
+.loader{
+  display: none;
+}
+.float-right{
+  float: right;
+}
+.frais_box{
+  display: none;
+}
+.transformcursor{cursor: pointer;}
+.check-money:hover{
+  border-bottom: 3px solid #ff0000;
+  padding-bottom: 2px;
+}
+.mobile-money-cheched{
+  border-bottom: 3px solid #ff0000;
+  padding-bottom: 2px;
+}

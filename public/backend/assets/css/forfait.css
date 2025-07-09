@@ -1,0 +1,783 @@
+body{
+    line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+}
+section.formule-3tabs.m_tab.mb70 {
+    padding: 50px 0 70px;
+}
+section.formule-3tabs {
+    padding: 70px 0;
+}
+.bg_white {
+    background: #fff;
+}
+
+#nos_offres{
+    line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    color: #4d5163;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    display: block;
+    background: #fff;
+    padding: 50px 0 70px;   
+}    
+section.formule-3tabs h1, section.formule-3tabs h2 {
+    margin-top: 5px;
+    margin-bottom: 25px;
+    font-size: 2rem;
+    line-height: 3.125rem;
+    font-weight: 600;
+    color: #001136;
+    text-align: center;
+}
+.wrapper {
+    width: 1170px;
+}
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+#tab_remise{
+        line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    color: #4d5163;
+    box-sizing: border-box;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: 0 0;
+    margin: 0 auto;
+    position: relative;
+    width: 1170px;
+}
+#content_table_price{
+        line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    color: #4d5163;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: 0 0;
+}
+#content_table_price > div:nth-child(1){
+        line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    color: #4d5163;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    background: 0 0;
+    width: calc((100%/3) - 13.5px);
+    margin-right: 16px;
+    margin-top: 50px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    box-shadow: rgba(30,73,155,.3) 0 4px 12px;
+}
+#content_table_price > div:nth-child(1) > div.head-tabs{
+        line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: #f60;
+    padding: 25px 15px 10px;
+    color: #fff;
+}
+#content_table_price > div:nth-child(1) > div.head-tabs > p{
+        font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    text-align: center;
+    color: #fff;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    font-size: 1rem;
+    line-height: 1.625rem;
+    font-weight: 600;
+    margin-top: 10px;
+}
+#content_table_price > div:nth-child(1) > div.triangle{
+        line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    color: #4d5163;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    width: 100%;
+    height: 20px;
+    position: relative;
+    background: #1e499b;
+}
+#content_table_price > div:nth-child(1) > div.content-price{
+        line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    color: #4d5163;
+    text-align: center;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: #1e499b;
+    padding: 15px 20px 25px;
+}
+#content_table_price > div:nth-child(1) > div.content-price > div.price_element_percent{
+        font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    text-align: center;
+    font-size: 1rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 5px;
+}
+#content_table_price > div:nth-child(1) > div.content-price > div.price_element_main{
+        line-height: 22px;
+    font-family: poppins,sans-serif!important;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-stretch: normal;
+    color: #4d5163;
+    box-sizing: border-box;
+    margin: 0;
+    border: 0;
+    outline: 0;
+    vertical-align: baseline;
+    background: 0 0;
+    text-align: center;
+    font-size: 45px;
+    padding: 20px 0 0;
+    font-weight: bolder;
+}
+#content_table_price > div:nth-child(1) > div.content-price > div.price_element_main > div.price_element_stroke{
+      color: #99b6d5;
+    font-weight: 600;
+    font-size: 1.25rem;
+    position: relative;
+    line-height: 1.25rem;
+}
+#content_table_price > div:nth-child(1) > div.content-price > div.price_element_main > div.price_element_price{
+        font-size: 2.8125rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_separator {
+    margin-left: -9px!important;
+    margin-right: 11px!important;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_separator {
+    font-size: 2.8125rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+    margin-left: -12px;
+    margin-right: 8px;
+}
+.price_element_main div {
+    display: inline-block;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_decimal {
+    font-size: 1.8125rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+}
+.price_element_main div {
+    display: inline-block;
+}
+.price_element_decimal {
+    font-size: 65%;
+    margin-left: -25px;
+    position: relative;
+    top: -12px;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_ht {
+    font-size: .6875rem;
+    line-height: 1.375rem;
+    font-weight: 400;
+    color: #fff;
+    top: 2px;
+    position: relative;
+    margin-left: -35px;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_ttc {
+    font-size: .6875rem;
+    line-height: 1.375rem;
+    font-weight: 400;
+    margin-top: 5px;
+}
+.price_element_ttc {
+    color: #fff;
+    text-align: center;
+    font-size: 11px;
+}
+section.formule-3tabs div.tabs-formule div.content-price a.btn-cmde {
+    font-size: 1.125rem;
+    line-height: 1.875rem;
+    font-weight: 600;
+    padding: 7px 30px;
+    margin-top: 15px;
+    border-bottom: 0;
+}
+a.btn.btn-orange {
+    background: #f60;
+    color: #fff!important;
+    border-bottom: 2px solid #a54200;
+    text-decoration: none!important;
+}
+a.btn, a.btn-demo, a.btn-banniere, a.btn-cmde, a.btnOrange, a.btn-fixed, a.btn100, a.btn-orange, a.btn-garanti, .contact1 p, .contact1 span {
+    font-family: poppins,sans-serif!important;
+}
+section.formule-3tabs div.tabs-formule div.list-tabs ul {
+    width: 100%!important;
+    padding: 0;
+    margin: 0;
+}
+#content_table_price > div:nth-child(1) > div.list-tabs.v2{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: 0 0;
+}
+section.formule-3tabs div.tabs-formule div.list-tabs.v2 ul li {
+    text-align: left;
+    padding: 20px;
+}
+section.formule-3tabs div.tabs-formule div.list-tabs ul li {
+    border-top: 1px solid rgba(30,73,155,.3);
+    color: #4d5163!important;
+    padding: 4px 0;
+    font-size: 1rem;
+    line-height: 1.5625rem;
+    font-weight: 400;
+    text-align: center;
+    background: #fff!important;
+    height: auto!important;
+    padding: 15px;
+}
+li {
+    list-style: none;
+}
+section.formule-3tabs div.wrapper div.tabs-formule {
+    width: calc((100%/3) - 13.5px);
+    margin-right: 16px;
+    margin-top: 50px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+    box-shadow: rgb(30 73 155 / 30%) 0 4px 12px;
+}
+section.formule-3tabs div.tabs-formule div.head-tabs {
+    background: #f60;
+    padding: 25px 15px 10px;
+    color: #fff;
+}
+section.formule-3tabs div.tabs-formule.special div.head-tabs div.best_seller {
+    width: fit-content;
+    white-space: nowrap;
+    height: 38px;
+    background: #ffe600;
+    padding: 8px 30px;
+    margin: auto;
+    font-size: .9375rem;
+    line-height: 1.625rem;
+    font-weight: 600;
+    color: #4d5163;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -23px;
+    box-shadow: 2px 2px 25px #1e499b29;
+}
+section.formule-3tabs div.tabs-formule.special div.head-tabs div.best_seller::after {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid #ffe600;
+    top: 36px;
+    left: 50%;
+    box-shadow: 2px 2px 25px #1e499b29;
+}
+section.formule-3tabs div.tabs-formule.special div.head-tabs h3 {
+    color: #fff127;
+}
+section.formule-3tabs div.tabs-formule div.head-tabs h3 {
+    font-size: 1.625rem;
+    line-height: 1.625rem;
+    font-weight: 600;
+}
+section.formule-3tabs div.tabs-formule div.head-tabs p.sub-h3, section.formule-3tabs div.tabs-formule div.head-tabs h6.sub-h3 {
+    font-size: 1rem;
+    line-height: 1.625rem;
+    font-weight: 600;
+    margin-top: 10px;
+}
+section.formule-3tabs div.tabs-formule.special div.triangle {
+    width: 100%;
+    height: 20px;
+    position: relative;
+    background: #1e499b;
+}
+section.formule-3tabs div.tabs-formule div.triangle {
+    width: 100%;
+    height: 20px;
+    position: relative;
+    background: #1e499b;
+}
+section.formule-3tabs div.tabs-formule div.triangle img {
+    width: 100%;
+    height: auto;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+section.formule-3tabs div.tabs-formule div.content-price {
+    background: #1e499b;
+    padding: 15px 20px 25px;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_percent {
+    font-size: 1rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 5px;
+}
+.price_element_percent {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: -10px;
+}
+.price_element_main {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 45px;
+    padding: 20px 0 0;
+    font-weight: bolder;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_ttc {
+    font-size: .6875rem;
+    line-height: 1.375rem;
+    font-weight: 400;
+    margin-top: 5px;
+}
+section.formule-3tabs div.tabs-formule div.content-price a.btn-cmde {
+    font-size: 1.125rem;
+    line-height: 1.875rem;
+    font-weight: 600;
+    padding: 7px 30px;
+    margin-top: 15px;
+    border-bottom: 0;
+}
+a.btn.btn-orange {
+    background: #f60;
+    color: #fff!important;
+    border-bottom: 2px solid #a54200;
+    text-decoration: none!important;
+}
+a.btn, a.btn-demo, a.btn-banniere, a.btn-cmde, a.btnOrange, a.btn-fixed, a.btn100, a.btn-orange, a.btn-garanti, .contact1 p, .contact1 span {
+    font-family: poppins,sans-serif!important;
+}
+a.btn {
+    display: inline-block;
+    padding: 6px;
+    text-align: center;
+    font-family: asap;
+    font-size: 22px;
+    line-height: 23px;
+    text-decoration: none!important;
+    cursor: pointer;
+}
+section.formule-3tabs div.tabs-formule.special div.list-tabs.v2 {
+    border: 2px solid #1e499b;
+    border-top: none;
+}
+section.formule-3tabs div.tabs-formule.special div.head-tabs {
+    background: #0c2a6a;
+    position: relative;
+}
+section.formule-3tabs div.tabs-formule.special div.head-tabs div.best_seller {
+    width: fit-content;
+    white-space: nowrap;
+    height: 38px;
+    background: #ffe600;
+    padding: 8px 30px;
+    margin: auto;
+    font-size: .9375rem;
+    line-height: 1.625rem;
+    font-weight: 600;
+    color: #4d5163;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: -23px;
+    box-shadow: 2px 2px 25px #1e499b29;
+}
+section.formule-3tabs div.tabs-formule.special div.head-tabs div.best_seller::after {
+    position: absolute;
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-top: 8px solid #ffe600;
+    top: 36px;
+    left: 50%;
+    box-shadow: 2px 2px 25px #1e499b29;
+}
+section.formule-3tabs div.wrapper div.tabs-formule:nth-child(3):not(.special), section.formule-3tabs div.wrapper div.tabs-formule.mrlast {
+    margin-right: -4px;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_percent {
+    font-size: 1rem;
+    line-height: 1.25rem;
+    font-weight: 400;
+    color: #fff;
+    margin-top: 5px;
+}
+.price_element_percent {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    margin-top: -10px;
+}
+.price_element_main {
+    text-align: center;
+    padding-top: 10px;
+    font-size: 45px;
+    padding: 20px 0 0;
+    font-weight: bolder;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_stroke {
+    color: #99b6d5;
+    font-weight: 600;
+    font-size: 1.25rem;
+    position: relative;
+    line-height: 1.25rem;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_stroke::after {
+    content: "";
+    position: absolute;
+    height: 2px;
+    background: #fff;
+    left: -5px;
+    right: -5px;
+    transform: rotate(-22deg);
+    top: 50%;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_price {
+    font-size: 2.8125rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_separator {
+    margin-left: -9px!important;
+    margin-right: 11px!important;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_separator {
+    font-size: 2.8125rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+    margin-left: -12px;
+    margin-right: 8px;
+}
+.price_element_main div {
+    display: inline-block;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_decimal {
+    font-size: 1.8125rem;
+    line-height: 1.25rem;
+    font-weight: 600;
+    color: #fff;
+}
+.price_element_decimal {
+    font-size: 65%;
+    margin-left: -25px;
+    position: relative;
+    top: -12px;
+}
+section.formule-3tabs div.tabs-formule div.content-price div.price_element_main div.price_element_ht {
+    font-size: .6875rem;
+    line-height: 1.375rem;
+    font-weight: 400;
+    color: #fff;
+    top: 2px;
+    position: relative;
+    margin-left: -35px;
+}
+.price_element_ht {
+    font-size: 22%;
+    margin-left: -30px;
+}
+header.header2020 {
+    background: #1e499b;
+    width: 100%;
+    float: left;
+    z-index: 99999;
+    height: 80px;
+}
+header {
+    background: #1e499b;
+    width: 100%;
+    float: left;
+    z-index: 99999;
+    height: 80px;
+}
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+.mobileHeader {
+    display: none;
+}
+header.header2020 .headertopLinks {
+    float: right;
+}
+header div.header_right {
+    padding: 9px 0;
+}
+header div.header_left, div.header_right {
+    display: inline-block;
+    height: 80px;
+}
+.headertopLinks {
+    float: right;
+}
+header div.header_right div.top_header>ul li.avis, div.header_right p.slogan {
+    display: none;
+}
+header p.header_avis, p.slogan, p.header_chiffre {
+    color: #fff;
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 400;
+}
+header p.header_avis, p.slogan, p.header_chiffre {
+    color: #fff;
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 400;
+}
+header.header2020 #logo {
+    float: left;
+    width: 176px;
+    margin: 15px 0 10px;
+    font: 0/0 a;
+    display: inline-block;
+    height: 55px;
+    background-image: url(../images/logo.png);
+    background-size: contain;
+}
+header #logo {
+    width: 150px;
+    background-size: auto;
+}
+#logo {
+    float: left;
+    width: 178px;
+    margin: 15px 0 10px;
+    font: 0/0 a;
+    display: inline-block;
+    height: 55px;
+    background-image: url(../images/logo.png);
+    background-size: contain;
+}
+header div.header_logo, div.header_text {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 50px;
+}
+header p.header_avis, p.slogan, p.header_chiffre {
+    color: #fff;
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 400;
+}
+header p.header_avis, p.slogan, p.header_chiffre {
+    color: #fff;
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 400;
+}
+header.header2020 .headertopLinks {
+    float: right;
+}
+header div.header_right {
+    padding: 9px 0;
+}
+header div.header_left, div.header_right {
+    display: inline-block;
+    height: 80px;
+}
+header div.header_left, div.header_right {
+    display: inline-block;
+    height: 80px;
+}
+.header_left{
+    float: left;
+}
+.header_right{
+    float: right;
+}
+.text-logo{
+    color: #fff;
+    font-size: 34px;
+    line-height: 27px;
+    font-weight: 400;
+}
+.top_header{
+    color: #fff;
+    font-size: 16px;
+    line-height: 27px;
+    font-weight: 400;
+}
+header.header2020 .headertopLinks li.contact {
+    padding: 4px 13px 0;
+}
+header.header2020 .headertopLinks li.client {
+    padding: 4px 13px 0;
+}
+header div.header_right div.top_header>ul li {
+    display: inline-block;
+    height: 20px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    padding: 0!important;
+    border-left: none;
+    margin-right: 20px!important;
+}
+header div.header_right div.top_header>a, div.header_right div.top_header>ul {
+    display: inline-block;
+}
+
+.tabs-formule{
+    margin-right: -4px !important;
+    margin-left: 10px !important;
+}
+.btn-cmde{
+    /*padding: 5px;*/
+    text-align: center;
+    border: none;
+    padding: 10px;
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: pointer;
+}
+.btn-orange{
+    background: #f60;
+}
